@@ -1,0 +1,9 @@
+OP 1700.00
+Insurance covers 1360.00
+CorporatePayer covers 1190.00
+IP 47500.00
+Insurance covers 38000.00
+CorporatePayer covers 33250.00
+Maternity 77000.00
+Insurance covers 40000.00
+CorporatePayer covers 53900.00

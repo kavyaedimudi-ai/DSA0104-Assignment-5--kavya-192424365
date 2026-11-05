@@ -1,0 +1,8 @@
+Virtual totals: 1700.000 47500.000
+Switch totals: 1700.000 47500.000
+1000 bills: virtual=0.004 ms, switch=0.004 ms, variant=0.001 ms
+1000000 bills: virtual=3.801 ms, switch=3.805 ms, variant=0.937 ms
+10000000 bills: virtual=37.862 ms, switch=37.680 ms, variant=11.386 ms
+0% invalid: status=1.872 ms, exceptions=2.180 ms
+1% invalid: status=1.963 ms, exceptions=15.164 ms
+50% invalid: status=1.925 ms, exceptions=667.960 ms
